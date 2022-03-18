@@ -9,3 +9,4 @@ print("AAA")
 print("D")
 
 print("F")
+print("FF")
