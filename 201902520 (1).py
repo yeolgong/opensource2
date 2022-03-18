@@ -1,3 +1,5 @@
+
+#컴퓨터전자시스템공학부 201902520 이상윤
 a,b,c = input().split()
 a,b,c = int(a), int(b), int(c)
 mul1=a*b   #a와b의 값이 변하기 전에 곱한값을 구해놓음
