@@ -4,5 +4,6 @@ Touched by lsy
 
 print("a")
 print("B")
+print("AAA")
 
 print("D")
