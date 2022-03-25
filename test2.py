@@ -10,3 +10,6 @@ print("D")
 
 print("F")
 print("FF")
+
+num = int(input())
+print(num)
