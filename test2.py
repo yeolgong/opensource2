@@ -13,3 +13,5 @@ print("FF")
 
 num = int(input())
 print(num)
+
+print("GG")
